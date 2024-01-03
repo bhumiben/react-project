@@ -1,0 +1,84 @@
+/* ContactPage.css */
+
+.contact-page {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Social Media Icons */
+.social-icons {
+  margin: 20px 0;
+}
+
+.social-icons a {
+  display: inline-block;
+  font-size: 24px;
+  margin: 0 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Location Link */
+.location-link {
+  margin: 20px 0;
+}
+
+.location-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Contact Form */
+.contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.social-icons {
+  margin: 20px 0;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.social-icons a .instagram-icon {
+  color: #e4405f; /* Instagram color */
+}
+
+.social-icons a .facebook-icon {
+  color: #1877f2; /* Facebook color */
+}
