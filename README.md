@@ -1,5 +1,6 @@
 ﻿# react-project
 * Grocery Store Website
+  
   Welcome to minimart a grocery store website! This web application allows users to browse a variety of grocery items, add them to their cart, and proceed to checkout. The data is fetched from the Edamam API.
 
 * Features
